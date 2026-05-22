@@ -1,0 +1,5 @@
+print ("ola, python!")
+print ("meu primeiro programa")
+print (2026)
+print (10 + 5)
+print ()
